@@ -6,11 +6,10 @@ Console.WriteLine("Hello, World!");
 Personaje personaje = new Personaje
 {
     Nombre = "Guerrero",
-    Vida = -100,
+    Vida = -100, // Error
     Ataque = 50,
     Defensa = 30,
-    Nivel = 1,
-
+    Nivel = 1
 };
 
 Console.WriteLine(personaje.ToString());
