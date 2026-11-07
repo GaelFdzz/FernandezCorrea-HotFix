@@ -1,0 +1,10 @@
+# Archivos generados por .NET
+[Bb]in
+[Oo]bj
+
+# Visual Studio
+.vs
+
+# Archivos temporales
+.user
+.suo
